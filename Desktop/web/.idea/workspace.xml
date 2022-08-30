@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97f99054-4277-4527-9f90-86cc21496d9f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/META-INF/maven/com.snsoftware/getrans/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/META-INF/maven/com.snsoftware/getrans/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/GetransApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/GetransApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/config/BeanConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/config/BeanConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/config/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/config/SecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/controller/AdminController.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/controller/AdminController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/controller/ClientController.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/controller/ClientController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/controller/ConnaissementController.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/controller/ConnaissementController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/controller/DeclarationController.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/controller/DeclarationController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/controller/DossierController.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/controller/DossierController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/controller/DossierCtrl.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/controller/DossierCtrl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/controller/FactureController.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/controller/FactureController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/controller/HistoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/controller/HistoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/controller/LivraisonController.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/controller/LivraisonController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/controller/PDFController.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/controller/PDFController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/controller/PageController.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/controller/PageController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/controller/PreliquidationController.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/controller/PreliquidationController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/controller/TransitCodeConttroller.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/controller/TransitCodeConttroller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/controller/TypeDossierController.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/controller/TypeDossierController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/dao/BaeRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/dao/BaeRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/dao/ClientRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/dao/ClientRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/dao/ColisRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/dao/ColisRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/dao/ConnaissementRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/dao/ConnaissementRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/dao/DeclarationRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/dao/DeclarationRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/dao/DossierRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/dao/DossierRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/dao/EscaleRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/dao/EscaleRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/dao/FactureRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/dao/FactureRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/dao/HistoryRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/dao/HistoryRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/dao/LivraisonRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/dao/LivraisonRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/dao/ModePaiementRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/dao/ModePaiementRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/dao/ParamRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/dao/ParamRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/dao/PasswordRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/dao/PasswordRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/dao/PreliquidationRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/dao/PreliquidationRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/dao/ReconnaissementRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/dao/ReconnaissementRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/dao/RoleRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/dao/RoleRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/dao/TransitCodeRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/dao/TransitCodeRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/dao/TypeDossierReository.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/dao/TypeDossierReository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/dao/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/dao/UserRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/forms/BlForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/forms/BlForm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/forms/ClientForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/forms/ClientForm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/forms/ColisForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/forms/ColisForm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/forms/DeclarationForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/forms/DeclarationForm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/forms/FactureForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/forms/FactureForm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/forms/OTForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/forms/OTForm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/forms/PasswordForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/forms/PasswordForm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/forms/PreliquidationForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/forms/PreliquidationForm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/forms/ReconnaissementForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/forms/ReconnaissementForm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/forms/UpdateDossierForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/forms/UpdateDossierForm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/BAE.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/BAE.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/Bureau.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/Bureau.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/Colis.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/Colis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/Connaissement.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/Connaissement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/Declaration.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/Declaration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/Dossier.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/Dossier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/Escale.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/Escale.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/Facture.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/Facture.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/History.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/History.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/Livraison.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/Livraison.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/ModePaiement.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/ModePaiement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/Navir.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/Navir.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/Parametre.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/Parametre.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/Password.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/Password.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/Port.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/Port.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/PreLiquidation.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/PreLiquidation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/Reconnaissement.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/Reconnaissement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/Role.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/Role.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/TransitCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/TransitCode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/TypeDossier.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/TypeDossier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/Voyage.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/model/Voyage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/service/DossierService.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/service/DossierService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/service/DossierServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/service/DossierServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/service/GetransService.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/service/GetransService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/service/GetransServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/service/GetransServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/service/MailService.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/service/MailService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/service/MailServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/service/MailServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/service/PdfService.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/service/PdfService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/service/PdfServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/service/PdfServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/util/ArmatorStat.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/util/ArmatorStat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/util/PDFGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/stable-version1.0/target/classes/com/getrans/util/PDFGenerator.class" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/test-version" />
+  </component>
+  <component name="ProjectId" id="2DqSsUwE5By3Jt3XZofcilT5u30" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/stable-version1.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="GetransApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.getrans.GetransApplication" />
+      <module name="getrans" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.getrans.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GetransApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97f99054-4277-4527-9f90-86cc21496d9f" name="Default Changelist" comment="" />
+      <created>1661425327295</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661425327295</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

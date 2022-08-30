@@ -1,0 +1,15 @@
+git init
+
+git status
+
+git add nomFic
+
+Pour plusieurs fichiers
+
+git add .
+
+git commit -m "message"
+
+git push -u origin master
+
+git push -u https://gitlab.snsoftware.com/getrans/web master
